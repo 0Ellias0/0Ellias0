@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*n3TBO5i8hrYAujlhiHoE_w.gif">
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0ellias0&label=Profile%20views&color=0e75b6&style=flat" alt="0ellias0" /> </p>
 
 - 🔭 I’m currently working on **Syscom**
