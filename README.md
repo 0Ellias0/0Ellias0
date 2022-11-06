@@ -1,4 +1,4 @@
-[![MasterHead](https://tekhdecoded.com/wp-content/uploads/2020/03/word-image-14.png)]
+[![MasterHead]([https://tekhdecoded.com/wp-content/uploads/2020/03/word-image-14.png](https://thumbs.dreamstime.com/b/cogs-gears-industrial-global-business-background-background-integration-binary-technology-banner-background-vector-illustration-180798145.jpg))]
 
 <h1 align="center">Hi 👋, I'm Hebert Palmera</h1>
 <h3 align="center">A passionate machine learning engineer from Colombia</h3>
