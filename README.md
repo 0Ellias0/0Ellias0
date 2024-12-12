@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*n3TBO5i8hrYAujlhiHoE_w.gif">
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=0ellias0&label=Profile%20views&color=0e75b6&style=flat]" alt="0ellias0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0ellias0&label=Profile%20views&color=0e75b6&style=flat" alt="0ellias0" /> </p>
 
 - 🔭 I’m currently working on **Sworkz**
 
