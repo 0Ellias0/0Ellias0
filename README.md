@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*n3TBO5i8hrYAujlhiHoE_w.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0ellias0&label=Profile%20views&color=0e75b6&style=flat" alt="0ellias0" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=0ellias0&label=Profile%20views&color=0e75b6&style=flat](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fproject-elt-data-pipeline-using-gcp-airflow-docker-dbt-v0-8aa7du7gbvcd1.gif%3Fwidth%3D878%26auto%3Dwebp%26s%3D2992f765116df863425daa2dd7dce3ab0f1b14e3)" alt="0ellias0" /> </p>
 
 - 🔭 I’m currently working on **Sworkz**
 
