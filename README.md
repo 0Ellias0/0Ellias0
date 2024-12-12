@@ -1,18 +1,18 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/cogs-gears-industrial-global-business-background-background-integration-binary-technology-banner-background-vector-illustration-180798145.jpg)]
 
 <h1 align="center">Hi 👋, I'm Hebert Palmera</h1>
-<h3 align="center">A passionate mechatronics/machine learning engineer from Colombia</h3>
+<h3 align="center">A passionate Data engineer from Colombia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*n3TBO5i8hrYAujlhiHoE_w.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0ellias0&label=Profile%20views&color=0e75b6&style=flat" alt="0ellias0" /> </p>
 
-- 🔭 I’m currently working on **Syscom**
+- 🔭 I’m currently working on **Sworkz**
 
-- 🌱 I’m currently learning **Azure, AWS, Cloud services, etc.**
+- 🌱 I’m currently learning **Spark, Databricks, GCP, etc.**
 
-- 💬 Ask me about **TensorFlow, Python, Numpy**
+- 💬 Ask me about **orchestration tools like Airflow, programming languages like Python or SQL, and data warehousing solutions like BigQuery**
 
 - 📫 How to reach me **hpalmerabuelvas@gmail.com**
 
